@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">RestaurantWaiting</string>
+    <string name="search_hint" translatable="false">동서대학교 UIT 주변 탐색</string>
+    <string name="nav_map" translatable="false">지도</string>
+    <string name="nav_list" translatable="false">리스트</string>
+    <string name="nav_reservation" translatable="false">예약</string>
+    <string name="nav_my" translatable="false">MY</string>
+
+    <!-- 식당 이름 샘플 -->
+    <string name="res_name_1" translatable="false">언덕 위 돈까스</string>
+    <string name="res_name_2" translatable="false">UIT 카페</string>
+    <string name="res_name_3" translatable="false">주례 맛집마당</string>
+    <string name="res_name_4" translatable="false">동서 국수</string>
+
+    <!-- 대기열 상태 샘플 -->
+    <string name="status_immediate" translatable="false">즉시 입장</string>
+    <string name="status_waiting_5" translatable="false">대기 5팀</string>
+    <string name="status_waiting_12" translatable="false">대기 12팀</string>
+    <string name="status_closed" translatable="false">입장 마감</string>
+
+    <string name="label_current_waiting" translatable="false">현재 대기</string>
+    <string name="label_expected_time" translatable="false">예상 대기시간</string>
+    <string name="label_congestion" translatable="false">사용자 체감 혼잡도</string>
+    <string name="btn_detail" translatable="false">상세 정보</string>
+    <string name="btn_reserve" translatable="false">예약하기</string>
+</resources>
